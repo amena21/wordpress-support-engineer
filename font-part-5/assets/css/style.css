@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Delight Sunset';
+    src: url('../fonts/DelightSunset.woff') format('woff2'),
+        url('../fonts/DelightSunset.woff2') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+body{
+    background-color: bisque;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    
+}
+
+ h1, h2, h3{
+    font-family: 'Delight Sunset', cursive;
+}
+.first{
+    font-style: italic;
+
+} 
+
